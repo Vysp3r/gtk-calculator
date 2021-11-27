@@ -1,6 +1,6 @@
 # gtk-calculator
 - - - -
-###Description
+### Description
 
 
 A simple calculator made in C with GTK4.
@@ -8,7 +8,7 @@ A simple calculator made in C with GTK4.
 ![Calculator](/calculator.png)
 
 - - - -
-###Building
+### Building
 1. Install cmake, git, gtk4 and gtk4-devel (will change depending on the distro you use, personally I use Fedora 35)
 >sudo dnf install cmake git gtk4 gtk4-devel
 2. Go to your home directory
