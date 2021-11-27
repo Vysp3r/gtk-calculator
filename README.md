@@ -27,3 +27,9 @@ A simple calculator made in C with GTK4.
 
 If you encounter any problems, make sure to [create an issue](https://github.com/Vysp3r/gtk-calculator/issues/new)!
 
+- - - -
+### Updates
+
+>**Update 0.1**</br>
+As of right now, the GUI and the buttons are working except the equal one.
+What that means is that right now you can enter your equation and erase it, but you cannot calculate it. I know its weird, but it's coming soon, no worries.
