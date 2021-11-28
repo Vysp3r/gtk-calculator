@@ -1,8 +1,3 @@
-/*
- * Author: Charles Malouin (Vysp3r)
- * Description: A simple calculator made in C with GTK4
- */
-
 #include <stdio.h>
 #include <gtk/gtk.h>
 #include "widgets.h" //Widgets Handler

@@ -1,6 +1,5 @@
 /*
  * Author: Charles Malouin (Vysp3r)
- * Description: A simple calculator made in C with GTK4
  */
 
 #include <stdio.h>
