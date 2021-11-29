@@ -35,4 +35,4 @@ As of right now, the GUI and the buttons are working except the equal one.
 What that means is that right now you can enter your equation and erase it, but you cannot calculate it. I know its weird, but it's coming soon, no worries.
 
 >**Update 0.2**</br>
-You can now use the equal button, but it's really limited and will probably break in most cases has of right now. I will continue working on it to improve it, just be patient.
+You can now use the equal button, but it's really limited and will probably break in most cases as of right now. I will continue working on it to improve it, just be patient.
