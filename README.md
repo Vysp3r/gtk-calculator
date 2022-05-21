@@ -53,9 +53,8 @@ to [create an issue](https://github.com/Vysp3r/gtk-calculator/issues/new)!
 > **Update 2.0.0**</br>
 > I fully ported the project to use GTK4 and Libadwaita. I changed how the UI is displayed by using a .ui file instead
 > of coding each component manually. All the buttons should now behave like they should except for the equal button.
-> You can expect to have a basic version of the equal in the 2.1.0 update. I updated the README file to have the latest
-> information. I changed the versioning of the project to allow me better flexibility concerning my updates which now
-> means major, minor then patch.
+> You can expect to have a basic version of the equal in the 2.1.0 update. I changed the versioning of the project to allow me 
+> better flexibility concerning my updates which now means major, minor then patch.
 
 > **Update 1.1.0**</br>
 > You can now use the equal button, but it's really limited and will probably break in most cases as of right now. I
