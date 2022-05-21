@@ -1,10 +1,21 @@
-#ifndef GTKSANDBOX_EVENTS_H
-#define GTKSANDBOX_EVENTS_H
+#ifndef GTKCALCULATOR_EVENTS_H
+#define GTKCALCULATOR_EVENTS_H
 
-void onClick_NumPad(GtkButton *btn, void *user_data);
+#include <gtk/gtk.h>
+#include <stdio.h>
+#include <adwaita.h>
 
-void onClick_Equal(GtkButton *btn, void *user_data);
+void add_text(GtkButton *widget, gpointer data);
 
-void onClick_Back(GtkButton *btn, void *user_data);
+void del_text(GtkButton *widget, gpointer data);
 
-#endif //GTKSANDBOX_EVENTS_H
+void get_result(GtkButton *widget, gpointer data);
+
+typedef struct {
+    GtkButton *button;
+    GtkText *entry;
+    char *value;
+    char *name;
+} buttonData;
+
+#endif //GTKCALCULATOR_EVENTS_H
